@@ -1,2 +1,2 @@
-# Basics4DataAnalytics
+# DataProject
 Via Python, ML, KNN etc.
