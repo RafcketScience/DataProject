@@ -1,0 +1,106 @@
+1. Kickoff – Unser gemeinsames Ziel (Woche 0)
+Warum wir das machen:
+	Wir wollen uns gemeinsam ein starkes ML/AI-Fundament erarbeiten und ein großes, echtes Projekt bauen: Vorhersage von Bundesliga-Ergebnissen und Börsenkursen.
+Motivation:
+	„Wir lernen nicht für ein Zertifikat – wir bauen ein System, das wirklich etwas vorhersagt.“
+
+2. Grundlagen schaffen (Wochen 1–2)
+2.1 Python, Algorithmen, Tools
+	• Python-Basics, GitHub
+	• SQL & Excel
+	• Einfache Algorithmen
+	• Lineare Regression einmal selbst programmieren
+2.2 Beginner-Kurs (YouTube)
+-> Liefert das Grundverständnis für Modelle, Daten, Training, Evaluation.
+
+3. Mathe auffrischen (parallel, Wochen 1–4)
+Khan Academy
+	• Statistik
+	• optional: Lineare Algebra
+	• optional: Calculus
+Unterstützendes Mathebuch
+Mathe-Basics für Data Scientists – Nield
+-> Sicherheit in Wahrscheinlichkeiten, Vektoren, Ableitungen und Verteilungen.
+
+4. Hauptbuch – der systematische Kern (Wochen 3–6)
+„Praxiseinstieg Machine Learning“ – Aurélien Géron
+	• Scikit-Learn: Klassifikation, Regression, Pipelines
+	• Keras & TensorFlow: Einführung in Deep Learning
+-> Ab hier können wir echte ML-Modelle bauen.
+
+5. Praxisprojekte (Wochen 5–8)
+5 Projekte (Guru99)
+	• Clean Code
+	• Regression
+	• Klassifikation
+	• APIs & Web-Scraping
+	• Data Handling
+LeetCode (zwischendurch)
+-> Ideal zur Stärkung von Logik & Routine.
+
+6. Vertiefungsphase (Wochen 6–9)
+Spezifischer YouTube-Kurs
+	• Regularisierung, CNN, RNN, Aktivierungsfunktionen
+	• Optimierer & Hyperparameter
+-> Mehr Tiefe, klarere Intuition.
+
+7. Großer ML-Kurs (Wochen 9–12)
+Die große Playlist
+	• Feature Engineering
+	• Modellvergleich
+	• Evaluationsmetriken
+	• Pipelines & Reproduzierbarkeit
+-> Ihr versteht den kompletten ML-Workflow.
+
+8. Bonus: Neuronale Netze selbst programmieren 
+„Neuronale Netze selbst programmieren“ – Rashid
+-> Falls wir einen „from scratch“-Weg möchten.
+
+9. Vorbereitung auf das Großprojekt (Wochen 10–14)
+Wir können jetzt:
+	• Daten sammeln
+	• Features bauen
+	• Modelle trainieren
+	• Performance bewerten
+	• Python & ML-Bibliotheken sicher nutzen
+	• GitHub einsetzen
+-> Prototyp der Pipeline entsteht.
+
+10. Großprojekt: Bundesliga & Börsenkurse vorhersagen (Wochen 14–20)
+10.1 Datensammlung
+	• APIs, CSVs, Web-Scraping
+	• Feature Engineering (Form, Trading-Indikatoren, Marktstruktur …)
+10.2 Modellansätze
+	• Regression
+	• Time Series Modelle (ARIMA, Prophet)
+	• ML-Modelle (XGBoost, Random Forest)
+	• Deep Learning (LSTM/GRU/Transformer)
+10.3 Vergleich & Optimierung
+	• Metriken
+	• Feature Importance
+	• Modellstabilität
+10.4 From Scratch Implementierungen
+	• Lineare Regression
+	• Einfaches neuronales Netz ohne Libraries
+-> Echtes Verständnis statt „nur Anwendung“.
+10.5 Abschluss
+	• Kleine Präsentation in pp
+	• GitHub-Repo
+	• Dashboard oder Web-Interface
+
+11. Weiterentwicklung (ab Woche 20)
+	• Hyperparameter Search
+	• Ensembles
+	• Reinforcement Learning
+	• Börsenprojekte erweitern (Sentiment, News, Makroindikatoren)
+
+Kompakter Zeitplan
+	• 0–2 Wochen: Grundlagen (Python, SQL, Algorithmen)
+	• 1–4 Wochen: Mathe parallel
+	• 3–6 Wochen: Géron-Buch
+	• 5–8 Wochen: Guru99 + LeetCode
+	• 6–9 Wochen: Spezifischer Kurs
+	• 9–12 Wochen: Großer ML-Kurs
+	• 10–14 Wochen: Vorbereitung Großprojekt
+	• 14–20 Wochen: Bundesliga & Börsenprojekt
+ab Woche 20: Erweiterungen
